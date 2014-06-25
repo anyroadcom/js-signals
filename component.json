@@ -1,0 +1,34 @@
+{
+  "name": "signals",
+  "version": "1.0.0",
+  "homepage": "http://millermedeiros.github.com/js-signals/",
+  "authors": [
+    "millermedeiros <miller@millermedeiros.com>"
+  ],
+  "description": "Custom Event/Messaging System",
+  "keywords": [
+    "signal",
+    "signals",
+    "event",
+    "emitter",
+    "pub/sub",
+    "observer"
+  ],
+  "license": "MIT",
+  "main": "dist/signals.js",
+  "scripts": [
+    "dist/signals.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "build.xml",
+    "package.json",
+    "updateDocs.sh"
+  ]
+}
